@@ -2,6 +2,6 @@
 
 # ⚙️SimplyFine
 
-**SIF** is a changed version of [Simply Optimized](https://modrinth.com/modpack/sop) modpack, that brings almost all OptiFine features, while saving perfomance on top. It contains only optimization (from [Simply Optimized](https://modrinth.com/modpack/sop)) and OptiFine-features mods.
+SimplyFine (**SIF** for short) is a changed version of [Simply Optimized](https://modrinth.com/modpack/sop) modpack, that brings almost all OptiFine features with maximum optimization. It contains only SO mods and OptiFine-Features mods. SIF also includes SO configs for the best perfomance.
 
 Full description is available on [Modrinth](https://modrinth.com/modpack/sif)
