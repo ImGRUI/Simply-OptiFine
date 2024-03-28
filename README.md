@@ -1,3 +1,5 @@
+## See Modrinth for the downloads.
+
 [<img alt="simply-optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/simply-optimized_vector.svg">](https://modrinth.com/modpack/sop)
 [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net/)
 
