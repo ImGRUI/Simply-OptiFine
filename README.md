@@ -42,6 +42,7 @@ The **biggest difference** is that <u>SimplyFine only adds Optimization and Opti
  - [FastQuit](https://modrinth.com/mod/fastquit) by [KingContaria](https://modrinth.com/user/KingContaria) - Lets you return to the Title Screen early while your world is still saving in the background;
  - [Mod Menu](https://modrinth.com/mod/modmenu) by [TerraformersMC](https://github.com/TerraformersMC) - Mod menu to view the list of mods and config them in-game;
  - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by [FlashyReese](https://modrinth.com/user/FlashyReese) - Alternative Options Menu for Sodium.
+ - [YOSBR](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) - Saves your settings after modpack updates.
 
 ### * 1.16.5 have very decreased list of mods for OptiFine features
 ### ** 1.19.4 and higher replace [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) by [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) resource pack
